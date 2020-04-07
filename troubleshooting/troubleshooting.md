@@ -221,7 +221,7 @@ Best way to actually fix this is to grab a newer copy of iASL or Acidanthera's c
 * Stuck on `RTC...`, `PCI ConfigurationBegins`, `Previous Shutdown...`, `HPET`, `HID: Legacy...`
 * "Waiting for Root Device" or Prohibited Sign error
 * macOS installer in Russian
-* macOS Installer being damadged
+* macOS Installer being damaged
 * Stuck on or near `IOConsoleUsers: gIOScreenLock...`
 * Black screen after `IOConsoleUsers: gIOScreenLock...` on Navi
 * 300 series Intel stalling on `apfs_module_start...`
